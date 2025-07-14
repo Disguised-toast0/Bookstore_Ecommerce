@@ -15,7 +15,6 @@ A modern, full-stack bookstore web app built with React, TypeScript, and Stripe 
 ### 1. Clone the Repository
 ```
 git clone <your-repo-url>
-cd project-bolt-sb1-vvjdkdl7/project
 ```
 
 ### 2. Install Dependencies
